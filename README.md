@@ -77,6 +77,8 @@ This commit, build, test, and deploy is a continuous process and hence the name 
 ![02_console_output_scripted_pipeline](https://user-images.githubusercontent.com/44410930/142734566-bf9d9d18-d670-43d0-a27a-97fc934bb6e5.PNG)
  ![03_console_output_scripted_pipeline](https://user-images.githubusercontent.com/44410930/142734655-aa73c228-6709-4db0-b723-836e3bd94077.PNG)
  
- # Declarative Pipeline : 
+ # Declarative Pipeline : Using Git Clone Repository
  Declarative pipeline using source code management and git repository,cloud based repository....etc.
  ![01_declarative_pipeline_build_history_using_scm(source_code_management)](https://user-images.githubusercontent.com/44410930/142734827-e55f37a0-569a-4803-9391-9568108cb416.PNG)
+ 
+![03_declarative_pipeline_console_output](https://user-images.githubusercontent.com/44410930/142734893-d95b171d-d835-454f-8c43-e75c9707cef6.PNG)
