@@ -52,6 +52,7 @@ This commit, build, test, and deploy is a continuous process and hence the name 
  -> Build CI/CD pipeline through different Jobs
   # Build Job -> Test Job -> Deploy Job -> Release Job -> Production Job
   ![01_creating_all_pipelines_sequence_wise](https://user-images.githubusercontent.com/44410930/142730659-a1dbf9a0-143b-4d85-b814-ba2527b08748.PNG)
+  ![03_pipeline_history_2](https://user-images.githubusercontent.com/44410930/142730912-f8765782-28a1-4c90-956f-f04d25cbb9d3.PNG)
  
   
 # Types of Pipeline
