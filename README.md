@@ -39,7 +39,8 @@ This commit, build, test, and deploy is a continuous process and hence the name 
 
 # Continuous Integration Process :
    Developement -> Commit -> Build -> Test -> Stage -> Deploy Dev/QA -> Production
- <.................Continuous Integration/Delivery................................>
+
+       -> Continuous Integration/ContinuousDelivery (CI/CD Pipeline)
  
 
 # What is Continuous Delivery?
@@ -47,9 +48,10 @@ This commit, build, test, and deploy is a continuous process and hence the name 
 -> Continuous Delivery is a process, where code changes are automatically built, tested, and prepared for a release to production.
 -> It is a process where you build software in such a way that it can be released to production at any time. 
 
-# BUild Pipeline
+# Build Pipeline :
  -> Build CI/CD pipeline through different Jobs
   # Build Job -> Test Job -> Deploy Job -> Release Job -> Production Job
+ 
   
 # Types of Pipeline
  -> Scripted Pipeline
