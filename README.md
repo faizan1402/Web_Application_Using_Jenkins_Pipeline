@@ -56,6 +56,10 @@ This commit, build, test, and deploy is a continuous process and hence the name 
   
  # Build Pipeline : 
 ![06_pipeline_run_again](https://user-images.githubusercontent.com/44410930/142730961-a1cdc7c6-376f-4df8-88bc-89aee1b007f5.PNG)
+
+# Continuous Delivery Reports :
+
+![06_continuous_Delivery_pipeline_report](https://user-images.githubusercontent.com/44410930/142731067-7f0af038-b4a7-4b4d-a0bb-9ba06b66f7fe.jpeg)
  
   
 # Types of Pipeline
