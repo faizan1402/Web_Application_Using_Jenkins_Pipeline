@@ -70,6 +70,8 @@ This commit, build, test, and deploy is a continuous process and hence the name 
  Scripted Pipeline using groovey script the whole execute the jobs only single pipeline
  -> Scripted Pipeline using Groovy-Script
  
+![01_create_pipeline_using_pipelines_groovy_scripted](https://user-images.githubusercontent.com/44410930/142734096-28213a98-7d64-4d15-926b-6fdd2e326b7a.PNG)
+ 
  
  # Declarative Pipeline : 
  Declarative pipeline using source code management and git repository,cloud based repository....etc.
