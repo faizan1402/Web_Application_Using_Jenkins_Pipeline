@@ -79,3 +79,4 @@ This commit, build, test, and deploy is a continuous process and hence the name 
  
  # Declarative Pipeline : 
  Declarative pipeline using source code management and git repository,cloud based repository....etc.
+ ![01_declarative_pipeline_build_history_using_scm(source_code_management)](https://user-images.githubusercontent.com/44410930/142734827-e55f37a0-569a-4803-9391-9568108cb416.PNG)
