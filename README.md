@@ -84,3 +84,6 @@ This commit, build, test, and deploy is a continuous process and hence the name 
 ![03_declarative_pipeline_console_output](https://user-images.githubusercontent.com/44410930/142734893-d95b171d-d835-454f-8c43-e75c9707cef6.PNG)
 
 ![04_declarative_pipeline_console_output](https://user-images.githubusercontent.com/44410930/142734965-afc4aec3-e164-4a7f-9361-11c446c8c7d5.PNG)
+
+# Build Test Deploy & Release Web Application :
+![01_jenkins_project_dashboard](https://user-images.githubusercontent.com/44410930/142735056-718cae32-9ba8-4378-8ef6-a685fde02b3f.PNG)
