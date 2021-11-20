@@ -87,3 +87,4 @@ This commit, build, test, and deploy is a continuous process and hence the name 
 
 # Build Test Deploy & Release Web Application :
 ![01_jenkins_project_dashboard](https://user-images.githubusercontent.com/44410930/142735056-718cae32-9ba8-4378-8ef6-a685fde02b3f.PNG)
+![02_web_application_status](https://user-images.githubusercontent.com/44410930/142735109-70dfc7bd-9e2e-4d82-b7a1-66d86302174c.PNG)
