@@ -48,11 +48,14 @@ This commit, build, test, and deploy is a continuous process and hence the name 
 -> Continuous Delivery is a process, where code changes are automatically built, tested, and prepared for a release to production.
 -> It is a process where you build software in such a way that it can be released to production at any time. 
 
-# Build Pipeline :
+# Create Jobs :
  -> Build CI/CD pipeline through different Jobs
-  # Build Job -> Test Job -> Deploy Job -> Release Job -> Production Job
+  # Build Job -> Test Job -> Deploy Job -> Release Job
   ![01_creating_all_pipelines_sequence_wise](https://user-images.githubusercontent.com/44410930/142730659-a1dbf9a0-143b-4d85-b814-ba2527b08748.PNG)
   ![03_pipeline_history_2](https://user-images.githubusercontent.com/44410930/142730912-f8765782-28a1-4c90-956f-f04d25cbb9d3.PNG)
+  
+ # Build Pipeline : 
+![06_pipeline_run_again](https://user-images.githubusercontent.com/44410930/142730961-a1cdc7c6-376f-4df8-88bc-89aee1b007f5.PNG)
  
   
 # Types of Pipeline
