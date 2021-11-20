@@ -5,6 +5,8 @@
  -> Scripted Pipeline
  -> Declarative Pipeline
  
- # Scripted Pipeline : Scripted Pipeline using groovey script the whole execute the jobs only single pipeline
+ # Scripted Pipeline : 
+ Scripted Pipeline using groovey script the whole execute the jobs only single pipeline
  
- # Declarative Pipeline : Declarative pipeline using source code management and git repository,cloud based repository....etc.
+ # Declarative Pipeline : 
+ Declarative pipeline using source code management and git repository,cloud based repository....etc.
