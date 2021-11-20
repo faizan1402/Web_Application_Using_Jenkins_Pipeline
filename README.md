@@ -71,6 +71,10 @@ This commit, build, test, and deploy is a continuous process and hence the name 
  -> Scripted Pipeline using Groovy-Script
  
 ![01_create_pipeline_using_pipelines_groovy_scripted](https://user-images.githubusercontent.com/44410930/142734096-28213a98-7d64-4d15-926b-6fdd2e326b7a.PNG)
+
+ -> Console Out Put
+ 
+![02_console_output_scripted_pipeline](https://user-images.githubusercontent.com/44410930/142734566-bf9d9d18-d670-43d0-a27a-97fc934bb6e5.PNG)
  
  
  # Declarative Pipeline : 
