@@ -1,4 +1,4 @@
-# Wep_Application_Using_Jenkins_Pipeline
+# Web_Application_Using_Jenkins_Pipeline
 
 # What is Jenkins?
 Jenkins is an open-source Continuous Integration server written in Java for orchestrating a chain of actions to achieve the 
